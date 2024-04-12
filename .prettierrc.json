@@ -1,0 +1,9 @@
+{
+  "semi": false,
+  "singleQuote": false,
+  "printWidth": 180,
+  "tabWidth": 2,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5",
+  "plugins": []
+}
